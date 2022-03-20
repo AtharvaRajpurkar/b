@@ -1,0 +1,69 @@
+[
+  {
+    "question": "The process of doing something again and again, usually to improve it.",
+    "correct_answer": "Iterations",
+    "incorrect_answers": ["Constraint", "Variable", "Calculation"]
+  },
+
+
+{
+  "question": "A method of coming up with alternative solutions.",
+  "correct_answer": "Brainstorming",
+  "incorrect_answers": [ "Iterations", "Variable", "Probability"
+  ]
+},
+{
+  "question": "Someone who wants to know how and why things work. They also design and build things.",
+  "correct_answer": "engineer",
+  "incorrect_answers": ["astronaut", "firefighter", "scientist"]
+},
+{
+  "question": "Engineers are people who design and build things to solve _____",
+  "correct_answer": "problems",
+  "incorrect_answers": ["riddles", "crosswords", "puzzles"]
+},
+{
+  "question": "This person searches for answers to technological and natural questions to obtain knowledge of why something is the way it is.",
+  "correct_answer": "scientist",
+  "incorrect_answers": ["physicist", "astronaut", "entrepreneur"]
+},
+{
+  "question": "Once you've figured out what problem you want to tackle, you need to _____",
+  "correct_answer": "do your research",
+  "incorrect_answers": ["build a prototype", "design your solution", "test your solution"
+  ]
+},
+{
+  "question": "The standards that help engineers measure how well their design does its job.",
+  "correct_answer": "criteria",
+  "incorrect_answers": ["prototype", "engineer", "failing forward"]
+},
+{
+  "question": "When engineers are trying to solve a problem, they follow a series of _____",
+  "correct_answer": "steps",
+  "incorrect_answers": ["solutions", "problems", "tests"]
+},
+
+{
+  "question": "The process of taking something apart and analyzing its workings in detail.",
+  "correct_answer": "Reverse Engineering",
+  "incorrect_answers": ["Graphic Design", "Evaluation", "Process"]
+},
+{
+  "question": "A simple machine that allows you to test your design.",
+  "correct_answer": "prototype",
+  "incorrect_answers": ["solution", "iterative process", "product"]
+},
+{
+  "question": "A plan produced to show the workings of an object before it is built or made is known as?",
+  "correct_answer": "design",
+  "incorrect_answers": ["solution", "prototype", "iterative process"]
+},  
+
+{
+  "question": "A limit imposed on a design solution.",
+  "correct_answer": "Constraint",
+  "incorrect_answers": [ "Specification", "Risk/Benefit Trade-Off", "Hindrance"
+  ]
+}
+]

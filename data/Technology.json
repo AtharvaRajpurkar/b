@@ -1,0 +1,71 @@
+[
+  {
+    "question": "Television was invented in which year?",
+    "correct_answer": "1927",
+    "incorrect_answers": ["1937 ", " 1865", " 1940"]
+  },
+  {
+    "question": "Who invented television?",
+    "correct_answer": "All of these",
+    "incorrect_answers": ["Kenjiro Takayanagi", "Charles Francis Jenkins", "Philo Farnsworth"]
+  },
+  {
+    "question": "Telephone was invented by?",
+    "correct_answer": "Alexander Graham Bell",
+    "incorrect_answers": [
+      "Martin Cooper", "Donald Cox", "Eric Tigerstedt"
+    ]
+  },
+  {
+    "question": "when was telephone invented?",
+    "correct_answer": "1876",
+    "incorrect_answers": ["1976", "1975", "1875"]
+  },
+  {
+    "question": "when was first telephone call made?",
+    "correct_answer": "1876",
+    "incorrect_answers": ["1976", "1975", "1875"]
+  },
+  {
+    "question": "Microsoft was founded by?",
+    "correct_answer": "Bill Gates",
+    "incorrect_answers": ["Mark zuckerberg", "Elon musk", "Jeff bezos"]
+  },
+  {
+    "question": "who invented tesla?",
+    "correct_answer": "Elon musk",
+    "incorrect_answers": ["Mark zuckerberg", "Bill Gates", "Jeff bezos"]
+  },
+  {
+    "question": "When was tesla car invented?",
+    "correct_answer": "2008",
+    "incorrect_answers": ["2022", "2010", "2019"]
+  },
+  {
+    "question": "In which decade with the first transatlantic radio broadcast occur?",
+    "correct_answer": "1900s",
+    "incorrect_answers": ["1850s", "1860s", "1870s"]
+  },
+  {
+    "question": "Who is largely responsible for breaking the German Enigma codes, created a test that provided a foundation for artificial intelligence?",
+    "correct_answer": "Alan Turing",
+    "incorrect_answers": [ "Jeff Bezos", "George Boole", "Charles Babbage"
+    ]
+  },
+  {
+    "question": "Who developed Yahoo?",
+    "correct_answer": "Dennis Ritchie & Ken Thompson",
+    "incorrect_answers": [ "David Filo & Jerry Yang", "Vint Cerf & Robert Kahn", "Steve Case & Jeff Bezos"
+    ]
+  },
+  {
+    "question": "Which motor is NOT suitable for use as a DC machine?",
+    "correct_answer": "Squirrel cage motor",
+    "incorrect_answers": ["Permanent magnet motor", "Series motor", "Synchronous motor"]
+  },
+  {
+    "question": "In which year was MIDI(Musical Instrument Digital Interface) introduced?",
+    "correct_answer": "1987",
+    "incorrect_answers": ["1983", "1983", "1889"]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Who was the first person to step on moon",
+    "correct_answer": "Neil Armstrong",
+    "incorrect_answers": ["Michael Collins", "Buzz Aldrin ", "alan shepard"]
+  },
+  {
+    "question": "Approximately how old is the Universe?",
+    "correct_answer": "13.8 billion years",
+    "incorrect_answers": ["1.7 billion years", "16.9 billion years", "100 million years"
+    ]
+  },
+  {
+    "question": "What is the name of the Indian space agency?",
+    "correct_answer": "ISRO",
+    "incorrect_answers": ["NASA", "Roscosmos", "JAXA"]
+  },
+  {
+    "question": "What is the male gamet cell known as",
+    "correct_answer": "Sperm ",
+    "incorrect_answers": ["Zygot", "Egg ", "Embro"]
+  },
+  {
+    "question": "What is the female gamet cell known as",
+    "correct_answer": "Egg ",
+    "incorrect_answers": ["zygot", "Sperm", "Embro"]
+  },
+  {
+    "question": "How many life process does a human have",
+    "correct_answer": "7",
+    "incorrect_answers": ["6", "3", "8"]
+  },
+  {
+    "question": "How many groups are there in a periodic table",
+    "correct_answer": "18",
+    "incorrect_answers": ["15", "17", "8"]
+  },
+  {
+    "question": "How many jouls in one kilojouls",
+    "correct_answer": "1000",
+    "incorrect_answers": ["1500", "500", "250"]
+  },
+  {
+    "question": "Which instrument is used to measure voltage",
+    "correct_answer": "voltmeter",
+    "incorrect_answers": ["Ammeter", "Resistor", "Cell"]
+  },
+  {
+    "question": "At what time of day a plant has the most starch",
+    "correct_answer": "Day",
+    "incorrect_answers": ["Night", "Mid day", "All time"]
+  },
+  {
+    "question": "How much bones does a human body contain",
+    "correct_answer": "206",
+    "incorrect_answers": ["205", "200", "210"]
+  }
+]

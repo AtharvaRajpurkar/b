@@ -1,0 +1,67 @@
+[
+  {
+    "question": "What is the value of PI",
+    "correct_answer": "3.14",
+    "incorrect_answers": [ "3.12", "1.58", "6.28"
+    ]
+  },
+  {
+    "question": "Who and when invented PI",
+    "correct_answer": "William Jones in 1706",
+    "incorrect_answers": [" ", " ", " "]
+  },
+  {
+    "question": "What is the cube of 7",
+    "correct_answer": " 343",
+    "incorrect_answers": ["216 ", " 215", "516"]
+  },
+  {
+    "question": "I am an odd number. Take away one letter and I become even. What number am I?",
+    "correct_answer": "Seven",
+    "incorrect_answers": [" Six", " Five", " one"]
+  },
+  {
+    "question": "Sally is 54 years old and her mother is 80, how many years ago was Sally’s mother times her age?",
+    "correct_answer": "41 ",
+    "incorrect_answers": [" 39", " 64", " 85"]
+  },
+  {
+    "question": "Which is a liner equation from the following",
+    "correct_answer": "2x=6",
+    "incorrect_answers": ["2x^2=8", "8x^4=160", " 5b^3=200"]
+  },
+  {
+    "question": "If 2 = 5, then what is the answer of (2*5-2)",
+    "correct_answer": "23",
+    "incorrect_answers": [" 10", "8 ", "12"]
+  },
+  {
+    "question": "Which value is greater than 4",
+    "correct_answer": "5",
+    "incorrect_answers": ["-1/2", "-25", "-4"]
+  },
+  {
+    "question": "Which is the smallest",
+    "correct_answer": "-1",
+    "incorrect_answers": [ "-1/2", "0", "3"
+    ]
+  },
+  {
+    "question": "Find the missing terms in multiple of 3: 3, 6, 9, __, 15",
+    "correct_answer": "12",
+    "incorrect_answers": [ "11", "13", "15"
+    ]
+  },
+  {
+    "question": "50 times of 8 is equal to",
+    "correct_answer": "400",
+    "incorrect_answers": [
+      "448", "470", "800"
+    ]
+  },
+  {
+    "question": "What is the sum of 130+125+191",
+    "correct_answer": "446",
+    "incorrect_answers": ["448", "470", "783"]
+  }
+]
